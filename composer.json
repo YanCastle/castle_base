@@ -1,0 +1,19 @@
+{
+    "name": "castlecn/base",
+    "description": "the base library of castlecn",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Castlecn",
+            "email": "490523604@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Castle\\":"src"
+        }
+    },
+    "require": {
+    }
+}
